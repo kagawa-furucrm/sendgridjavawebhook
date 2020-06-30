@@ -1,0 +1,6 @@
+{
+  "name": "Sendgrid Tracking,Delivery Result's Webhook Sample",
+  "description": "A snippcode to build webhook for sendgrid to capture tracking, delivery result",
+  "repository": "https://github.com/kagawa-furucrm/sendgridjavawebhook",
+  "keywords": ["java", "vietnam offshore", "furucrm"]
+}
